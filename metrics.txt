@@ -1,0 +1,22 @@
+How to read:
+Title
+Single example ROC Curve AUC for one cross validation iteration
+Accuracy, Loss, AUC, Precision, Recall, F1 score <--- Averages across 10-fold CV
+
+----------------------------------
+
+Mismatches vs Ab/Ag
+0.49383552364178296
+[0.53744856 0.69309179 0.50695366 0.5386768  0.68075464 0.57946906]
+
+Random Noise vs Ab/Ag
+1.0
+[1.         0.32988923 1.         1.         1.         1.        ]
+
+General vs Ab/Ag
+1.0
+[0.99842088 0.01379772 0.99994375 0.99672798 0.99754099 0.99712268]
+
+General half vs Ag
+0.7024793388429753
+[0.71111111 0.58215292 0.76000542 0.69411606 0.76529603 0.72555238]
